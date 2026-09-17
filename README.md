@@ -191,8 +191,7 @@ conversion is one-way -- once you begin editing `main.tex` directly, retire
 
 ## Citing
 
-See `CITATION.cff`. A preprint is in preparation; this README will be updated
-with the DOI once it is posted.
+See `CITATION.cff`. Preprint: [https://doi.org/10.26434/chemrxiv.15008954/v1](https://doi.org/10.26434/chemrxiv.15008954/v1)
 
 ## License
 
